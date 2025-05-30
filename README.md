@@ -14,12 +14,6 @@ A simple Android app built with **Jetpack Compose** and **Room Database** to man
 
 ---
 
-## 📸 Screenshots
-
-> *You can add screenshots here after running the app*
-
----
-
 ## 🧱 Tech Stack
 
 | Layer        | Tools Used                  |
